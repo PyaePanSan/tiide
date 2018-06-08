@@ -7,5 +7,5 @@ def hello():
     return "Hello World"
 
 @app.route("/cho")
-def cho();
-return "Hello Ei Cho Zin"
+def cho():
+    return "Hello Ei Cho Zin"
